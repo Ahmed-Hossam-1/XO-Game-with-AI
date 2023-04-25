@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    background-image: url("../images/AI.jpg");
+    background-image: url("images/AI.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
